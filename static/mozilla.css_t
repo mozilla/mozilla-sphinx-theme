@@ -8,7 +8,7 @@
  * :license: BSD
  */
 
-@import url("https://mozorg.cdn.mozilla.net/media/css/tabzilla-min.css");
+@import url("//mozorg.cdn.mozilla.net/media/css/tabzilla-min.css");
 @import url("basic.css");
 
 @font-face {
